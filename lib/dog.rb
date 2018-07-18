@@ -7,5 +7,3 @@ end
 def name=(dog_name)
 
 end
-
-fido = Dog.new
